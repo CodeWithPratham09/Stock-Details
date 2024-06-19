@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Stock Market">90c6458fc3b2c61098fbb1fdd401315c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title/>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1317537_stock_0_stock_details</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 10:11:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66d6098fc3b2c61098fbb1fdd401314d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317537_stock_0_stock_details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope>
+        <sys_update_name>sys_app_module_66d6098fc3b2c61098fbb1fdd401314d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 10:11:58</sys_updated_on>
+        <timeline_page/>
+        <title/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</application>
+        <file_path/>
+        <instance_id>bd0102253b3ace10a36804e0b5e45a50</instance_id>
+        <instance_name>dev275375</instance_name>
+        <name>sys_app_module_66d6098fc3b2c61098fbb1fdd401314d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Stock Market">90c6458fc3b2c61098fbb1fdd401315c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title/><mobile_view_name>Mobile</mobile_view_name><name>x_1317537_stock_0_stock_details</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-19 10:11:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>66d6098fc3b2c61098fbb1fdd401314d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1317537_stock_0_stock_details</sys_name><sys_overrides/><sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package><sys_policy/><sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope><sys_update_name>sys_app_module_66d6098fc3b2c61098fbb1fdd401314d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-19 10:11:58</sys_updated_on><timeline_page/><title/><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-952500703</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f3340d8bc3b2c61098fbb1fdd401314e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 10:11:58</sys_created_on>
+        <sys_id>bee6498fc3b2c61098fbb1fdd40131b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902ffb53610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 10:11:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b2e6498fc2b2c6101d90ef01818ce9b7</update_guid>
+        <update_guid_history>b2e6498fc2b2c6101d90ef01818ce9b7:-952500703</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e53701cfc3b2c61098fbb1fdd4013114</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 10:13:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>188a7050a0164c8299c7b8a51f384984</sys_id>
+        <sys_metadata>66d6098fc3b2c61098fbb1fdd401314d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317537_stock_0_stock_details</sys_name>
+        <sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope>
+        <sys_scope_delete display_value="">3e57e361c20245a7aa6646f777d88791</sys_scope_delete>
+        <sys_update_name>sys_app_module_66d6098fc3b2c61098fbb1fdd401314d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_66d6098fc3b2c61098fbb1fdd401314d">bee6498fc3b2c61098fbb1fdd40131b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 10:13:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

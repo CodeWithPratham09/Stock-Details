@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="07b485cbc3b2c61098fbb1fdd40131d2" label="Stock details" max_length="40" name="x_1317537_stock_0_stock_details" type="collection">
+        <element label="No Of Stocks" max_length="40" name="no_of_stocks" type="integer"/>
+        <element label="Buy Price" max_length="40" name="buy_price" type="integer"/>
+        <element label="Stock Name" max_length="40" name="stock_name" type="string"/>
+        <element formula="SUBTRACT(total_sell_price,total_buy_price)" label="Profit" max_length="40" name="profit" read_only="true" type="integer" virtual="true" virtual_type="formula"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element formula="MULTIPLY(buy_price,no_of_stocks)" label="Total Buy Price" max_length="40" name="total_buy_price" read_only="true" type="integer" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(no_of_stocks,sell_price)" label="Total Sell Price" max_length="40" name="total_sell_price" read_only="true" type="integer" virtual="true" virtual_type="formula"/>
+        <element label="Sell Price " max_length="40" name="sell_price" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

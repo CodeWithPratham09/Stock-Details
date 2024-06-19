@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7e9789cfc3b2c61098fbb1fdd4013162" sys_domain="global" table="x_1317537_stock_0_stock_details" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 10:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>369789cfc3b2c61098fbb1fdd4013166</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1317537_stock_0_stock_details" name="x_1317537_stock_0_stock_details" sys_domain="global" view="Default view">7e9789cfc3b2c61098fbb1fdd4013162</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1317537_stock_0_stock_details" sys_domain="global" view="Default view">369789cfc3b2c61098fbb1fdd401315e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 10:14:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 10:14:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>729789cfc3b2c61098fbb1fdd4013167</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1317537_stock_0_stock_details" name="x_1317537_stock_0_stock_details" sys_domain="global" view="Default view">7e9789cfc3b2c61098fbb1fdd4013162</sys_ui_form>
+            <sys_ui_section caption="Stock details" display_value="Stock details" name="x_1317537_stock_0_stock_details" sys_domain="global" view="Default view">afb48d0bc372c61098fbb1fdd4013139</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 10:14:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1317537_stock_0_stock_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 10:14:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e9789cfc3b2c61098fbb1fdd4013162</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1317537_stock_0_stock_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7e9789cfc3b2c61098fbb1fdd4013162</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 10:14:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
