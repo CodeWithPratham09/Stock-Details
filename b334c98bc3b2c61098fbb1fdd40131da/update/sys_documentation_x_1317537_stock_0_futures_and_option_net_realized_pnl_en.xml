@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="no_of_stocks" label="No of Stocks" language="en" table="x_1317537_stock_0_stock_details">
+    <sys_documentation element="net_realized_pnl" label="Net Realized PnL " language="en" table="x_1317537_stock_0_futures_and_option">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>no_of_stocks</element>
+            <element>net_realized_pnl</element>
             <help/>
             <hint/>
-            <label>No of Stocks</label>
+            <label>Net Realized PnL </label>
             <language>en</language>
-            <name>x_1317537_stock_0_stock_details</name>
-            <plural>No of Stocks</plural>
+            <name>x_1317537_stock_0_futures_and_option</name>
+            <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-19 10:04:43</sys_created_on>
-            <sys_mod_count>11</sys_mod_count>
-            <sys_name>No of Stocks</sys_name>
+            <sys_created_on>2024-07-12 06:24:53</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Net Realized PnL </sys_name>
             <sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package>
             <sys_policy/>
             <sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope>
-            <sys_update_name>sys_documentation_x_1317537_stock_0_stock_details_no_of_stocks_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1317537_stock_0_futures_and_option_net_realized_pnl_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-11 08:42:56</sys_updated_on>
+            <sys_updated_on>2024-07-12 06:26:49</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Stock Market">90c6458fc3b2c61098fbb1fdd401315c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Futures and Options</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1317537_stock_0_futures_and_options</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 07:21:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9e496c3dc31f825098fbb1fdd401317e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Futures and Options</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope>
+        <sys_update_name>sys_app_module_9e496c3dc31f825098fbb1fdd401317e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 07:21:59</sys_updated_on>
+        <timeline_page/>
+        <title>Futures and Options</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</application>
+        <file_path/>
+        <instance_id>bd0102253b3ace10a36804e0b5e45a50</instance_id>
+        <instance_name>dev275375</instance_name>
+        <name>sys_app_module_9e496c3dc31f825098fbb1fdd401317e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Stock Market">90c6458fc3b2c61098fbb1fdd401315c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Futures and Options</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1317537_stock_0_futures_and_options</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-10 07:21:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9e496c3dc31f825098fbb1fdd401317e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Futures and Options</sys_name><sys_overrides/><sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package><sys_policy/><sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope><sys_update_name>sys_app_module_9e496c3dc31f825098fbb1fdd401317e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-10 07:21:59</sys_updated_on><timeline_page/><title>Futures and Options</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-178783881</payload_hash>
+        <record_name>Futures and Options</record_name>
+        <reverted_from/>
+        <source>b090e94fc336c61098fbb1fdd4013186</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 07:21:59</sys_created_on>
+        <sys_id>e969a83dc31f825098fbb1fdd4013104</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1909b8540550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 07:21:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ed69a83d261f82509e9d3bf476844303</update_guid>
+        <update_guid_history>ed69a83d261f82509e9d3bf476844303:-178783881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Futures and Options">d2452af1c397c25098fbb1fdd40131a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 16:23:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7b7f6e9e8e6844c0bec528cb45ed54a4</sys_id>
+        <sys_metadata>9e496c3dc31f825098fbb1fdd401317e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Futures and Options</sys_name>
+        <sys_package display_value="Stock Market" source="x_1317537_stock_0">b334c98bc3b2c61098fbb1fdd40131da</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Stock Market">b334c98bc3b2c61098fbb1fdd40131da</sys_scope>
+        <sys_scope_delete display_value="">3e57e361c20245a7aa6646f777d88791</sys_scope_delete>
+        <sys_update_name>sys_app_module_9e496c3dc31f825098fbb1fdd401317e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9e496c3dc31f825098fbb1fdd401317e">e969a83dc31f825098fbb1fdd4013104</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 16:23:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" db_object_id="b985eef1c397c25098fbb1fdd4013115" label="Futures and option" max_length="40" name="x_1317537_stock_0_futures_and_option" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element formula="SUBTRACT(total_sell_price,total_buy_price)" label="Total Profit" max_length="20" name="total_profit" read_only="true" type="decimal" virtual="true" virtual_type="formula"/>
+        <element formula="SUBTRACT(total_profit,charges)" label="Net Realized PnL " max_length="20" name="net_realized_pnl" read_only="true" type="decimal" virtual="true" virtual_type="formula"/>
+        <element label="No of Lot" max_length="20" name="no_of_lot" type="decimal"/>
+        <element label="Sell Price" max_length="20" name="sell_price" type="decimal"/>
+        <element formula="MULTIPLY(quantity,sell_price)" label="Total Sell Price" max_length="20" name="total_sell_price" read_only="true" type="decimal" virtual="true" virtual_type="formula"/>
+        <element label="Charges" max_length="20" name="charges" type="decimal"/>
+        <element label="Option Name" max_length="40" name="option_name" type="string"/>
+        <element label="Buy price" max_length="20" name="buy_price" type="decimal"/>
+        <element formula="MULTIPLY(quantity,buy_price)" label="Total Buy Price" max_length="20" name="total_buy_price" read_only="true" type="decimal" virtual="true" virtual_type="formula"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Position" max_length="40" name="position" type="string">
+            <choice>
+                <element inactive_on_update="false" label="PUT" sequence="1" value="PUT"/>
+                <element inactive_on_update="false" label="CALL" sequence="0" value="CALL"/>
+            </choice>
+        </element>
+        <element label="Quantity" max_length="40" name="quantity" type="decimal"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
